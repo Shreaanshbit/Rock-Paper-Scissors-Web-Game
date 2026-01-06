@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#heading{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+}
+
+.choices{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.choice{
+    margin: 50px;
+    font-size: 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.choice:hover{
+    font-size: 150px;
+    opacity: 70%;
+}
+
+.scoreBoard{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.score{
+    font-style: oblique;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+}
+
+
+.message-box{
+    background-color: aquamarine;
+    font-size: x-large;
+    display:inline-block;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+#message{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+#attempts{
+    color: cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
