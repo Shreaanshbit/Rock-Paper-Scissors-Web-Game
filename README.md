@@ -23,7 +23,7 @@ A simple, interactive web-based Rock Paper Scissors game built with HTML, CSS, a
 
 ## How to Run
 - Open `index.html` in any modern web browser.
-- You can also use the link to the page 
+- You can also use the link  https://rockpaperscissorsbyshreaansh.netlify.app/
 
 ## Technologies Used
 - HTML5
